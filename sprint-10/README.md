@@ -1,9 +1,9 @@
 # Sprint 10 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
-- **Qué se entrega:** *(notebook, documento…)*
-- **Quién hizo qué:**
-  - Persona 1:
+- **Reto:** *(Sprint S10 · Redes neuronales bien entrenadas)*
+- **Qué se entrega:** *(un pdf y un python echo con colab…)*
+- **Quién hizo qué:** 
+  - Persona 1:Adrian
   - Persona 2:
   - Persona 3:
-- **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
+- **Cómo reproducirlo:** *(tanto el pdf como el python se abren normal )*
